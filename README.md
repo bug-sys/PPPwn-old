@@ -7,7 +7,7 @@ INSTALL :
 sudo apt install git -y
 ```
 ```sh
-git clone --recursive https://github.com/bug-sys/PPPwn-old
+git clone --recursive --depth 1 https://github.com/bug-sys/PPPwn-old
 ```
 ```sh
 sudo bash /root/PPPwn/install.all

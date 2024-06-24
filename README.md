@@ -10,7 +10,7 @@ sudo apt install git -y
 git clone --recursive --depth 1 https://github.com/bug-sys/PPPwn-old
 ```
 ```sh
-sudo bash /root/PPPwn/install.all
+sudo bash /root/PPPwn-old/install.all
 ```
 Credit : 
 - TheOfficialFloW
